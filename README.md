@@ -3,4 +3,4 @@ Reinforcement Learning project on OpenAI LunarLander-v2, Using Dueling Deep Q Ne
 Source: https://gymnasium.farama.org/
 
 Conclusion: Dueling DQN consider the contribution of the state action to the overall value separately,which allows it to produce a more accurate result!
-
+PS: PPTX include information on Deep Q Network (DQN) as well
